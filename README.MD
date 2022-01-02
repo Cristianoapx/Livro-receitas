@@ -1,9 +1,6 @@
-# Livro de receitas :man_astronaut:
+# Livro de receitas:man_cook:
 
-Olá! bem-vindo ao livro de receitas
-
-
+Olá! bem-vindo ao livro de receitas:book:
 
 - Strogonoff de frango
-
-  
+- Panqueca
